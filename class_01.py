@@ -43,3 +43,5 @@ if user_age != calculated_age:
     print(f' Age mismatch detected! The correct age should be: {calculated_age}')
 else:
     print(' Great! Your age is calculated correctly.')
+
+print('at the moment we have %i person' % esmael.return_count())
